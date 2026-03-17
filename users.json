@@ -1417,5 +1417,49 @@
         "username": "szk_bab",
         "full_name": "Botya",
         "registered_at": "2026-03-17 09:56:27"
+    },
+    "6210608075": {
+        "id": 130,
+        "user_id": "6210608075",
+        "balance": "0",
+        "status": "active",
+        "referal": "0",
+        "outing": "0",
+        "username": null,
+        "full_name": "Farzona❤️Safiya❤️Fayzbek",
+        "registered_at": "2026-03-17 10:54:44"
+    },
+    "7192932364": {
+        "id": 131,
+        "user_id": "7192932364",
+        "balance": "0",
+        "status": "active",
+        "referal": "0",
+        "outing": "0",
+        "username": null,
+        "full_name": "Искандар Ералийев",
+        "registered_at": "2026-03-17 12:32:12"
+    },
+    "5312086026": {
+        "id": 132,
+        "user_id": "5312086026",
+        "balance": "0",
+        "status": "active",
+        "referal": "0",
+        "outing": "0",
+        "username": null,
+        "full_name": "❤️‍🔥",
+        "registered_at": "2026-03-17 18:14:09"
+    },
+    "1637247571": {
+        "id": 133,
+        "user_id": "1637247571",
+        "balance": "0",
+        "status": "active",
+        "referal": "0",
+        "outing": "0",
+        "username": "Ilyos1219",
+        "full_name": "Ilyos",
+        "registered_at": "2026-03-17 19:55:51"
     }
 }
